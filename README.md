@@ -8,5 +8,4 @@ Figma : https://www.figma.com/file/fEiQnHo1YYKsUSlmlJ8dUA/Social-Media-App-UI?ty
 
 
 Drive links: https://drive.google.com/drive/u/5/folders/1Y7LK3JQKcZELxuPGCLmYtMu0pYTXZ4na
-
              https://drive.google.com/drive/u/5/folders/1cvxfdCiUteEodOArOyYR_9Utw5B7YfMb
